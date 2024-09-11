@@ -1,0 +1,5 @@
+Flask==1.1.1
+Flask-Babel==2.0.0
+pytz==2022.1
+pycodestyle==2.5.0
+itsdangerous==2.0.1
